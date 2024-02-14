@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT16_EXPONENT_BIAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-exponent-bias@esm/index.mjs';
+import FLOAT16_EXPONENT_BIAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-exponent-bias@v0.2.0-esm/index.mjs';
 ```
 
 #### FLOAT16_EXPONENT_BIAS
@@ -72,7 +72,7 @@ var bool = ( FLOAT16_EXPONENT_BIAS === 15 );
 <body>
 <script type="module">
 
-import FLOAT16_EXPONENT_BIAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-exponent-bias@esm/index.mjs';
+import FLOAT16_EXPONENT_BIAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-exponent-bias@v0.2.0-esm/index.mjs';
 
 console.log( FLOAT16_EXPONENT_BIAS );
 // => 15
