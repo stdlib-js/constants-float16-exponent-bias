@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-12-21)
+
+<section class="features">
+
+### Features
+
+-   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,8 +22,9 @@
 
 <details>
 
+-   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - **feat:** add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297) _(by Gururaj Gurram, Athan Reines)_
 -   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
--   [`2e8998e`](https://github.com/stdlib-js/stdlib/commit/2e8998ee67be12caff9a99df3ba3256c55b167a2) - **chore:** update test messages in `constants/float16` [(#6774)](https://github.com/stdlib-js/stdlib/pull/6774) _(by Harsh)_
+-   [`2e8998e`](https://github.com/stdlib-js/stdlib/commit/2e8998ee67be12caff9a99df3ba3256c55b167a2) - **chore:** update test messages in `constants/float16` [(#6774)](https://github.com/stdlib-js/stdlib/pull/6774) _(by Harsh Yadav)_
 
 </details>
 
@@ -25,9 +36,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Athan Reines
+-   Gururaj Gurram
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
